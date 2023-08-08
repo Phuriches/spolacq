@@ -1,4 +1,11 @@
 *__pycache__
-
+my*
 data
 data.zip
+models.zip
+models/
+egs
+conf
+utils/hello.mp3
+utils/our_objectives.mp3
+utils/reverse_engineer.ipynb
